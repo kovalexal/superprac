@@ -1,0 +1,32 @@
+srun: error: Task launch for 1338056.0 failed on node node1-030-26: User not found on host
+srun: error: Task launch for 1338056.0 failed on node node1-030-27: User not found on host
+srun: error: Task launch for 1338056.0 failed on node node1-030-22: User not found on host
+srun: error: Task launch for 1338056.0 failed on node node1-030-23: User not found on host
+srun: error: Task launch for 1338056.0 failed on node node1-030-24: User not found on host
+srun: error: Task launch for 1338056.0 failed on node node1-030-25: User not found on host
+srun: error: Task launch for 1338056.0 failed on node node1-030-28: User not found on host
+srun: error: Application launch failed: User not found on host
+srun: Job step aborted: Waiting up to 2 seconds for job step to finish.
+slurmd[node1-008-16]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-008-18]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-008-19]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-008-21]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-008-20]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-022-03]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-008-17]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-022-04]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-022-05]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-022-06]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+slurmd[node1-022-02]: *** STEP 1338056.0 KILLED AT 2016-11-10T23:57:01 WITH SIGNAL 9 ***
+srun: error: node1-008-16: tasks 8-15: Killed
+srun: error: node1-008-18: tasks 24-31: Killed
+srun: error: node1-008-19: tasks 32-39: Killed
+srun: error: node1-008-21: tasks 48-55: Killed
+srun: error: node1-008-20: tasks 40-47: Killed
+srun: error: node1-022-03: tasks 72-79: Killed
+srun: error: node1-008-17: tasks 16-23: Killed
+srun: error: node1-022-04: tasks 80-87: Killed
+srun: error: node1-022-05: tasks 88-95: Killed
+srun: error: node1-022-06: tasks 96-103: Killed
+srun: error: node1-022-02: tasks 64-71: Killed
+srun: error: Timed out waiting for job step to complete

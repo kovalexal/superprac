@@ -1,0 +1,2 @@
+slurmd[node1-001-16]: *** JOB 1336578 CANCELLED AT 2016-11-07T17:05:58 DUE TO TIME LIMIT ***
+mpirun: Forwarding signal 18 to job
